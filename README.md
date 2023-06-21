@@ -11,7 +11,7 @@ To enable the same, [@formula21](https://formula21.github.io) has bought you an 
 
 Built in Python and deployed through Flask Server, the integrated experience is tailored to any user(s) experience.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/formula21/pdf-to-image-api/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/joe2275/pdf-to-image-api/tree/main)
 
 ## App Documentation
 
